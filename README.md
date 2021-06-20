@@ -11,9 +11,9 @@ The application gets open in http://localhost:3000
 => it will redirect to dashboard page where will see diffrent dogs breed info links list, And If we want add new dog breed we can add over there.
 => once click on each dog breed link correspondig details about dog will displayed. if we want to edit dog breed details we can edit it.
 
-=>everything has been develped using react hooks.
+=>everything has been developed using react hooks.
 
-=>I have taken dogs info below js object
+=>I have taken dogs info this js object
 var dogsInfo = [
 {
 id: 1,
@@ -34,5 +34,3 @@ price: 50000,
 available: 30,
 },
 ];
-
-=>Please do call me if you are having any queries: +91-7675042100
